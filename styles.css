@@ -51,6 +51,12 @@
 	position: absolute;
 	top: 103px;
 }
+.rainbow2 {
+	width: 100%;
+	height: auto;
+	padding: 0;
+	top: 200px;
+}
 .nav-btm {
 	width: 100%;
 	border-bottom: 2px solid black;
