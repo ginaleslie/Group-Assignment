@@ -160,4 +160,20 @@ h2 {
 }
 .text-muted {
 	font-size: 15px;
+	line-height: 19px;
+}
+
+.grey-text {
+	color: #a3a3a3;
+	font-size: 15px;
+	line-height: 19px;
+}
+
+footer {
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+.rights-reserved {
+	text-align: right;
 }
