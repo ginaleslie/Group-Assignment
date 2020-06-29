@@ -140,3 +140,24 @@ h1 {
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
+
+.news-container {
+	padding: 35px 35px 35px 75px;
+	color: white;
+}
+h2 {
+	font-weight: bold;
+	font-size: 25px;
+}
+.media-container {
+	padding: 35px;
+	color: white;
+}
+
+.text-white {
+	text-decoration-line: underline;
+	font-size: 19px;
+}
+.text-muted {
+	font-size: 15px;
+}
