@@ -51,6 +51,12 @@
 	position: absolute;
 	top: 103px;
 }
+.rainbow2 {
+	width: 100%;
+	height: auto;
+	padding: 0;
+	top: 200px;
+}
 .nav-btm {
 	width: 100%;
 	border-bottom: 2px solid black;
@@ -139,4 +145,40 @@ h1 {
 .intro-link {
 	padding-top: 30px;
 	padding-bottom: 20px;
+}
+
+.news-container {
+	padding: 35px 35px 35px 75px;
+	color: white;
+}
+h2 {
+	font-weight: bold;
+	font-size: 25px;
+}
+.media-container {
+	padding: 35px 75px 35px 35px;
+	color: white;
+}
+
+.text-white {
+	text-decoration-line: underline;
+	font-size: 19px;
+}
+.text-muted {
+	font-size: 15px;
+}
+
+.grey-text {
+	color: #a3a3a3;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+footer {
+	padding-left: 75px;
+	padding-right: 75px;
+}
+
+.rights-reserved {
+	text-align: right;
 }
