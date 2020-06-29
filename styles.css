@@ -150,7 +150,7 @@ h2 {
 	font-size: 25px;
 }
 .media-container {
-	padding: 35px;
+	padding: 35px 75px 35px 35px;
 	color: white;
 }
 
@@ -160,12 +160,11 @@ h2 {
 }
 .text-muted {
 	font-size: 15px;
-	line-height: 19px;
 }
 
 .grey-text {
 	color: #a3a3a3;
-	font-size: 15px;
+	font-size: 16px;
 	line-height: 19px;
 }
 
