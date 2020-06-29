@@ -1,3 +1,10 @@
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+html {
+	overflow-x: hidden;
+}
 .vr {
 	background-color: rgb(167, 167, 167);
 	height: 33px;
@@ -89,7 +96,7 @@
 	background-repeat: no-repeat;
 	width: 100%;
 	background-position: center;
-	height: 480px;
+	height: 520px;
 }
 .covid-warning {
 	display: inline-block;
@@ -184,10 +191,10 @@ footer {
 }
 
 /*services css*/
-h2 {
+.service-heading {
 	font-style: normal;
 	font-weight: 500;
-	font-size: 19px;
+	font-size: 24px;
 	line-height: 22px;
 
 	color: #4f4f4f;
@@ -200,6 +207,7 @@ h2 {
 	top: 721px;
 
 	background: #ffb612;
+	margin: 15px 0 20px 0;
 }
 
 .icon {
@@ -214,5 +222,11 @@ h2 {
 .section2 {
 	width: 90%;
 	display: block;
-	margin: 0 auto;
+	margin: 150px auto;
+}
+.services {
+	padding-left: 25px;
+}
+.service-row {
+	margin-bottom: 80px;
 }
