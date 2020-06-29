@@ -140,3 +140,44 @@ h1 {
 	padding-top: 30px;
 	padding-bottom: 20px;
 }
+
+
+/*services css*/
+ h2{
+	
+	font-style: normal;
+	font-weight: 500;
+	font-size: 19px;
+	line-height: 22px;
+	
+	color: #4F4F4F;
+	
+
+ }
+
+ .yellowline{
+	
+	width: 55px;
+	height: 2px;
+	left: 811px;
+	top: 721px;
+	
+	background: #FFB612;
+ }
+
+ .icon{		
+	width: 414px;
+	height: 244px;
+	left: 410px;
+	top: 494px;
+
+	background: url(69efb4158dbd06468635579d60d)
+ }
+
+ .section2{
+
+width: 90%;
+display: block;
+margin: 0 auto;
+
+ }
